@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7014796d-f3c7-44ee-a958-a5ccd9adeeb1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naive_bayes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/naive_bayes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nb_project_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/nb_project_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/svm.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svm2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/svm2.ipynb" afterDir="false" />
     </list>
@@ -44,6 +42,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.Jupyter Settings&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
